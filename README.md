@@ -25,7 +25,7 @@ Attributes of Log class:
 
 ### Python version
 
-Scrip works on 3.4.3 or higher
+Scrip works on Python 3.4.3 or higher
 
 ### Author
 
