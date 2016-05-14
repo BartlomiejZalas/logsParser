@@ -23,6 +23,10 @@ Attributes of Log class:
 - content_size - (int) size of requested content
 - agent - (string) - informations about client browser
 
+### Python version
+
+Scrip works on 3.4.3 or higher
+
 ### Author
 
 Bartłomiej Zalas
